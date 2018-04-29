@@ -6,10 +6,6 @@ Several risk factors such as age, race, pregnancy, stress, certain medications, 
 
 As diabetes and obesity are strong correlated with each other, this brings us a big question: what other factors strong correlate with the development of diabetes and obesity? To answer this, I choose the Food Environment Atlas data set from the United States Department of Agriculture (USDA), which has over 275 variables covering almost all counties of all states from U.S. Is the average household income correlated with the development of diabetes and obesity? Are poverty and child poverty important factors? Are the national assistance programs important?
 
-# FINDINGS
-
-
-
 Data set
 
 https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#Current%20Version
